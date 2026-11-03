@@ -1,0 +1,16 @@
+{
+  "name": "woning-zoeker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zoekt elke 15 minuten naar nieuwe huurappartementen in Apeldoorn (€700–€1500) en stuurt een Telegram-melding.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dry-run": "DRY_RUN=1 node src/index.js",
+    "chat-id": "node scripts/get-chat-id.js",
+    "test-telegram": "node scripts/test-telegram.js"
+  },
+  "dependencies": {
+    "playwright": "1.49.1"
+  }
+}
