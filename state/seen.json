@@ -1,1 +1,23 @@
-{ "seen": {}, "failures": {} }
+{
+  "seen": {
+    "https://kamernet.nl/huren/appartement-apeldoorn/prinsengang/appartement-2411994": {
+      "source": "Kamernet",
+      "firstSeen": "2026-11-03T09:50:35.564Z",
+      "price": 900,
+      "title": "Prinsengang"
+    },
+    "https://www.123wonen.nl/huur/apeldoorn/appartement/kanaalstraat-5184-1": {
+      "source": "123Wonen",
+      "firstSeen": "2026-11-03T09:50:35.564Z",
+      "price": 1118,
+      "title": "kanaalstraat"
+    }
+  },
+  "failures": {
+    "Pararius": 1,
+    "Huurwoningen.nl": 1,
+    "Funda": 1,
+    "Kamernet": 0,
+    "123Wonen": 0
+  }
+}
