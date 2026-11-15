@@ -11,13 +11,19 @@
       "firstSeen": "2026-11-03T09:50:35.564Z",
       "price": 1118,
       "title": "kanaalstraat"
+    },
+    "https://kamernet.nl/huren/appartement-apeldoorn/prinsengang/appartement-2418683": {
+      "source": "Kamernet",
+      "firstSeen": "2026-11-15T16:31:05.992Z",
+      "price": 900,
+      "title": "Nieuw"
     }
   },
   "failures": {
-    "Pararius": 49,
-    "Huurwoningen.nl": 49,
-    "Funda": 49,
-    "Kamernet": 4,
+    "Pararius": 50,
+    "Huurwoningen.nl": 50,
+    "Funda": 50,
+    "Kamernet": 0,
     "123Wonen": 0
   }
 }
